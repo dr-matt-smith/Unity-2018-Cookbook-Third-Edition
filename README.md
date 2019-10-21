@@ -56,7 +56,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
 | 1-4,6-19 | Unity 2018.1 or later               | Windows, Mac OS X (Any) |
-| 5        | Unity 2018.1 or lagter +            |                                    |
+| 5        | Unity 2018.1 or later +            |                                    |
 |          | an image editing application        |                                    |
 |          | such as GIMP                        | Windows, Mac OS X (Any) |
 
